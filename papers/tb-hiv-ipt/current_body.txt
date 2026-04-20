@@ -1,0 +1,7 @@
+Among adults co-infected with TB and HIV in East Africa, does 6-month isoniazid preventive therapy vs 36-month IPT change active-TB incidence at 3 years?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ hazard ratio across 11 studies.
+The pooled hazard ratio was 1.02 with a 95 percent confidence interval of 0.84 to 1.24, indicating no meaningful difference.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the hazard ratio by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

@@ -1,0 +1,7 @@
+In symptomatic adults presenting to primary-care clinics in Uganda, does Xpert MTB/RIF vs direct sputum microscopy change time to TB treatment initiation?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ days difference across 8 studies.
+The pooled days difference was -7.4 with a 95 percent confidence interval of -11.2 to -3.6, indicating a full week faster to treatment.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the days difference by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

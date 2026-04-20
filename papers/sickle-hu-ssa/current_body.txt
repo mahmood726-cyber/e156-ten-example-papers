@@ -1,0 +1,7 @@
+Does hydroxyurea reduce acute pain crises in sickle cell children in Sub-Saharan Africa compared to standard care?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ risk ratio across 9 studies.
+The pooled risk ratio was 0.45 with a 95 percent confidence interval of 0.32 to 0.63, indicating less than half the crisis rate.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the risk ratio by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

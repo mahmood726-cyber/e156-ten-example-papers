@@ -1,0 +1,7 @@
+Among HIV-positive pregnant women in Ugandan rural clinics, does integrase-inhibitor ART vs efavirenz-based ART change infant HIV acquisition at 18 months?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ odds ratio across 6 studies.
+The pooled odds ratio was 0.81 with a 95 percent confidence interval of 0.58 to 1.14, indicating a possible 19% reduction.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the odds ratio by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

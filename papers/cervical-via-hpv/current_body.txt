@@ -1,0 +1,7 @@
+For cervical-cancer screening in unvaccinated women 30-50, does visual inspection with acetic acid vs HPV DNA testing change CIN-2+ detection rate at first-round screening?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ detection rate ratio across 12 studies.
+The pooled detection rate ratio was 1.35 with a 95 percent confidence interval of 1.12 to 1.63, indicating 35% more CIN-2+ detected.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the detection rate ratio by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

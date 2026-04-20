@@ -1,0 +1,54 @@
+{
+  "first_author": {
+    "full_name": "Student Example",
+    "email": "student@example.ug",
+    "affiliation": "Example University",
+    "orcid": null,
+    "credit_roles": [
+      "conceptualization",
+      "investigation",
+      "formal-analysis",
+      "writing-original-draft"
+    ],
+    "is_board_member_of_target_journal": false
+  },
+  "middle_author": {
+    "full_name": "Mahmood Ahmad",
+    "email": "mahmood.ahmad2@nhs.net",
+    "affiliation": "Tahir Heart Institute",
+    "orcid": null,
+    "credit_roles": [
+      "methodology",
+      "writing-review-editing"
+    ],
+    "is_board_member_of_target_journal": true
+  },
+  "last_author": {
+    "full_name": "Mentor Example",
+    "email": "mentor@example.ug",
+    "affiliation": "Example University",
+    "orcid": null,
+    "credit_roles": [
+      "supervision",
+      "writing-review-editing"
+    ],
+    "is_board_member_of_target_journal": false
+  },
+  "conflicts_of_interest": {
+    "has_conflicts": false,
+    "statement": ""
+  },
+  "funding_sources": [],
+  "ai_assistance_disclosed": {
+    "used_ai": true,
+    "disclosure_sentence": "Local Gemma 2 and Qwen 2.5 Coder models via the e156 student starter were used for language editing; the authors accept full responsibility for all content.",
+    "backends": [
+      "ollama"
+    ]
+  },
+  "editorial_board_coi": {
+    "any_board_member": true,
+    "no_role_paragraph_included": true,
+    "journal_name_exact": "Synthesis"
+  }
+}

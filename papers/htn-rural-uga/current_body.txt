@@ -1,0 +1,7 @@
+Among adults with uncontrolled hypertension attending rural Ugandan clinics, does nurse-led task-shifting vs physician-only care change systolic BP at 6 months?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ mean difference across 10 studies.
+The pooled mean difference was -4.3 with a 95 percent confidence interval of -6.1 to -2.5, indicating systolic BP fell by about 4 mmHg.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the mean difference by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.

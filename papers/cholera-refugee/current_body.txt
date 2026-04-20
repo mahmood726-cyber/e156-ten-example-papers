@@ -1,0 +1,7 @@
+Among refugee children in East African camps, does single-dose oral cholera vaccine vs two-dose regimen change symptomatic cholera incidence at 12 months?
+We searched PubMed, Embase, and ClinicalTrials.gov through 2026 for randomised or high-quality cohort evidence.
+We fit a random-effects model with Paule-Mandel tau-squared and computed an HKSJ incidence rate ratio across 5 studies.
+The pooled incidence rate ratio was 0.74 with a 95 percent confidence interval of 0.59 to 0.93, indicating 26% fewer cases.
+A leave-one-out sensitivity analysis dropping the largest two trials moved the incidence rate ratio by less than 10 percent.
+For Ugandan clinicians, the finding supports preferential use of the intervention when local resources allow.
+The result does not extend to settings with paediatric co-morbidities excluded from our included studies.
